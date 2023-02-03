@@ -67,6 +67,7 @@ let menorOuIgualQue = valor3 <= valor4;
 // 2.1.9. Utilizando duas ou comparações lógicas. 
 // Os dois valores precisão ser verdadeiro.
 let operadorLogicoAND = igualdade && maiorQue;
+
 // Ou um dos dois valores precisa ser verdadeiro.
 let operadorLogicoOR = igualdade || igualdadeEstrita;
 
